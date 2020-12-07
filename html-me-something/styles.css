@@ -1,0 +1,44 @@
+
+         
+.link {
+   font-size: 20px;
+   padding: 10px;
+   font-weight: bold;
+   color: firebrick;
+   background-color: rgb(165, 138, 192);
+}
+ h1 {
+     font-weight: bold;
+     font-size: 30px;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     text-align: center;
+     
+ }
+ .photoSection {
+   background-color: rgb(165, 138, 192);
+ }
+ 
+ #pictureBorder {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   border-style: solid;
+   border-color:firebrick;
+ }
+ h4 {
+     font-style: italic;
+     font-size: 20px ;
+     text-align: center;
+ }
+ p {
+     font-weight: bold;
+     font-size: 22px;
+     font-style:inherit;
+ }
+ h2 {
+     font-weight: bold;
+     font-size: 35px;
+     font-family: fantasy  ;
+     text-align: center;
+     padding: 30px 520px;
+ }
